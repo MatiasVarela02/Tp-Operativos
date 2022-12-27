@@ -1,0 +1,394 @@
+[INFO] 12:50:42:871 Kernel/(27064:27064): Kernel listo para recibir a consola
+[INFO] 12:50:52:710 Kernel/(27064:27064): Se conecto una consola!
+[INFO] 12:50:52:713 Kernel/(27064:27082): el grado de multi es 6
+[INFO] 12:50:52:716 Kernel/(27064:27082): ENVIO un PCB A MEMORIA 0
+[INFO] 12:50:52:719 Kernel/(27064:27082): RECIBO un PCB DE MEMORIA 0
+[INFO] 12:50:52:720 Kernel/(27064:27082): ENVIO un PCB A CPU 0
+[INFO] 12:50:52:983 Kernel/(27064:27064): Se conecto una consola!
+[INFO] 12:50:52:987 Kernel/(27064:27085): el grado de multi es 5
+[INFO] 12:50:52:989 Kernel/(27064:27085): ENVIO un PCB A MEMORIA 1
+[INFO] 12:50:53:410 Kernel/(27064:27064): Se conecto una consola!
+[INFO] 12:50:53:414 Kernel/(27064:27091): el grado de multi es 4
+[INFO] 12:50:53:415 Kernel/(27064:27091): ENVIO un PCB A MEMORIA 2
+[INFO] 12:50:53:737 Kernel/(27064:27085): RECIBO un PCB DE MEMORIA 1
+[INFO] 12:50:53:737 Kernel/(27064:27085): Mande una interrupcion
+[INFO] 12:50:53:738 Kernel/(27064:27091): RECIBO un PCB DE MEMORIA 2
+[INFO] 12:50:53:743 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:50:53:745 Kernel/(27064:27082): RECIBO un PCB DE CPU 0 con el estado 1
+[INFO] 12:50:53:745 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:50:53:745 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:50:53:857 Kernel/(27064:27064): Se conecto una consola!
+[INFO] 12:50:53:861 Kernel/(27064:27094): el grado de multi es 3
+[INFO] 12:50:53:861 Kernel/(27064:27094): ENVIO un PCB A MEMORIA 3
+[INFO] 12:50:54:241 Kernel/(27064:27064): Se conecto una consola!
+[INFO] 12:50:54:248 Kernel/(27064:27097): el grado de multi es 2
+[INFO] 12:50:54:249 Kernel/(27064:27097): ENVIO un PCB A MEMORIA 4
+[INFO] 12:50:54:807 Kernel/(27064:27094): RECIBO un PCB DE MEMORIA 3
+[INFO] 12:50:54:807 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:50:54:807 Kernel/(27064:27097): RECIBO un PCB DE MEMORIA 4
+[INFO] 12:50:54:817 Kernel/(27064:27097): Mande una interrupcion
+[INFO] 12:50:54:829 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:50:54:829 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:50:54:829 Kernel/(27064:27082): ENVIO un PCB A CPU 2
+[INFO] 12:52:07:293 Kernel/(27064:27082): RECIBO un PCB DE CPU 2 con el estado 6
+[INFO] 12:52:07:294 Kernel/(27064:27082): finalizacion de proceso, comunicando con consola...
+[INFO] 12:52:07:294 Kernel/(27064:27082): el grado de ejecutando es 1
+[INFO] 12:52:07:294 Kernel/(27064:27082): ENVIO un PCB A CPU 0
+[INFO] 12:52:09:819 Kernel/(27064:27082): RECIBO un PCB DE CPU 0 con el estado 3
+[INFO] 12:52:09:819 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 5000
+[INFO] 12:52:09:819 Kernel/(27064:27082): se suspende
+[INFO] 12:52:09:819 Kernel/(27064:27082): todavia no se suspendio aumenta el grado de multi a   2
+[INFO] 12:52:09:819 Kernel/(27064:27082): Como se suspendio aumenta el grado de multi a   3
+[INFO] 12:52:09:819 Kernel/(27064:27082): ENVIO un PCB A MEMORIA PARA QUE SE DUERMA 0
+[INFO] 12:52:09:821 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:09:858 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:09:858 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:09:858 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:09:861 Kernel/(27064:27097): ENVIO un PCB A CPU 4
+[INFO] 12:52:09:967 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:13:851 Kernel/(27064:27097): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:13:851 Kernel/(27064:27097): llego por desalojo
+[INFO] 12:52:13:851 Kernel/(27064:27097): ENVIO un PCB A CPU 1
+[INFO] 12:52:17:849 Kernel/(27064:27082): YA DURMIO  0
+[INFO] 12:52:17:849 Kernel/(27064:27082): Recibi el proceso y queda en suspended ready
+[INFO] 12:52:17:849 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:19:205 Kernel/(27064:27097): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:19:205 Kernel/(27064:27097): llego por desalojo
+[INFO] 12:52:19:205 Kernel/(27064:27097): ENVIO un PCB A CPU 3
+[INFO] 12:52:19:226 Kernel/(27064:27097): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:19:227 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:19:227 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:19:228 Kernel/(27064:27085): ENVIO un PCB A CPU 4
+[INFO] 12:52:19:333 Kernel/(27064:27097): Mande una interrupcion
+[INFO] 12:52:19:345 Kernel/(27064:27085): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:19:345 Kernel/(27064:27085): llego por desalojo
+[INFO] 12:52:19:346 Kernel/(27064:27085): ENVIO un PCB A CPU 0
+[INFO] 12:52:23:072 Kernel/(27064:27085): RECIBO un PCB DE CPU 0 con el estado 6
+[INFO] 12:52:23:072 Kernel/(27064:27085): finalizacion de proceso, comunicando con consola...
+[INFO] 12:52:23:072 Kernel/(27064:27085): el grado de ejecutando es 1
+[INFO] 12:52:23:073 Kernel/(27064:27085): ENVIO un PCB A CPU 1
+[INFO] 12:52:23:138 Kernel/(27064:27085): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:23:138 Kernel/(27064:27085): Llego en estado bloqueado con unos milisegundos de: 5000
+[INFO] 12:52:23:138 Kernel/(27064:27085): se suspende
+[INFO] 12:52:23:138 Kernel/(27064:27085): todavia no se suspendio aumenta el grado de multi a   3
+[INFO] 12:52:23:138 Kernel/(27064:27085): Como se suspendio aumenta el grado de multi a   4
+[INFO] 12:52:23:138 Kernel/(27064:27085): ENVIO un PCB A MEMORIA PARA QUE SE DUERMA 1
+[INFO] 12:52:23:141 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:23:164 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:23:164 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:23:164 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:23:166 Kernel/(27064:27082): ENVIO un PCB A CPU 4
+[INFO] 12:52:23:181 Kernel/(27064:27082): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:23:181 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:23:181 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:23:285 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:23:286 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:23:307 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 1
+[INFO] 12:52:23:307 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:23:307 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:23:460 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:23:460 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:23:460 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:23:464 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:23:468 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:23:469 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:23:469 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:23:565 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:23:580 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:28:183 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:28:183 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:28:183 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:28:216 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:28:216 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:216 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:217 Kernel/(27064:27082): ENVIO un PCB A CPU 4
+[INFO] 12:52:28:322 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:28:346 Kernel/(27064:27082): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:28:346 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:28:346 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:28:376 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:28:376 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:376 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:386 Kernel/(27064:27097): ENVIO un PCB A CPU 4
+[INFO] 12:52:28:398 Kernel/(27064:27097): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:28:398 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:398 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:483 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:28:506 Kernel/(27064:27097): Mande una interrupcion
+[INFO] 12:52:28:515 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:28:515 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:515 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:527 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:28:623 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:28:634 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:28:634 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:28:634 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:28:658 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:28:658 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:658 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:664 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:28:677 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:28:677 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:677 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:763 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:28:785 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:28:795 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 1
+[INFO] 12:52:28:795 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:28:795 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:28:874 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:28:874 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:874 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:877 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:28:885 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:28:886 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:28:886 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:28:978 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:28:992 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:28:999 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:28:999 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:28:999 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:29:039 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:29:040 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:040 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:042 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:29:139 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:29:139 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:139 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:149 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:29:174 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:29:174 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:174 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:257 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:29:282 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:29:289 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:29:289 Kernel/(27064:27094): llego por desalojo
+[INFO] 12:52:29:289 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:29:329 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:29:329 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:330 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:332 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:29:439 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:29:450 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:29:450 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:450 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:453 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:29:485 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:29:485 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:486 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:557 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:29:607 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:29:622 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:29:622 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:29:622 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:29:657 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:29:657 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:657 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:663 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:29:730 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:29:730 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:730 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:775 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:29:797 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:29:797 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:29:797 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:29:840 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:29:901 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:30:849 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:30:849 Kernel/(27064:27094): llego por desalojo
+[INFO] 12:52:30:849 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:30:880 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:30:880 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:30:880 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:30:882 Kernel/(27064:27082): ENVIO un PCB A CPU 4
+[INFO] 12:52:30:986 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:30:997 Kernel/(27064:27082): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:30:997 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:30:997 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:31:032 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:31:032 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:31:032 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:31:034 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:31:034 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:31:035 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:31:036 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:31:147 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:31:147 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:31:169 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 1
+[INFO] 12:52:31:169 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:31:169 Kernel/(27064:27082): ENVIO un PCB A CPU 4
+[INFO] 12:52:31:308 Kernel/(27064:27082): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:31:308 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:31:308 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:31:310 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:31:319 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:31:319 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:31:319 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:31:416 Kernel/(27064:27082): ENVIO un PCB A CPU 4
+[INFO] 12:52:31:430 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:32:178 Kernel/(27064:27085): YA DURMIO  1
+[INFO] 12:52:32:178 Kernel/(27064:27085): Recibi el proceso y queda en suspended ready
+[INFO] 12:52:32:178 Kernel/(27064:27085): Mande una interrupcion
+[INFO] 12:52:32:437 Kernel/(27064:27082): RECIBO un PCB DE CPU 4 con el estado 1
+[INFO] 12:52:32:437 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:32:437 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:32:459 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:32:459 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:32:459 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:32:460 Kernel/(27064:27091): ENVIO un PCB A CPU 1
+[INFO] 12:52:32:567 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:32:576 Kernel/(27064:27091): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:32:576 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:32:576 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:32:715 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:32:715 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:32:715 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:32:717 Kernel/(27064:27085): ENVIO un PCB A CPU 3
+[INFO] 12:52:32:740 Kernel/(27064:27085): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:32:740 Kernel/(27064:27085): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:32:740 Kernel/(27064:27085): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:32:741 Kernel/(27064:27094): ENVIO un PCB A CPU 1
+[INFO] 12:52:32:823 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:32:844 Kernel/(27064:27085): Mande una interrupcion
+[INFO] 12:52:33:769 Kernel/(27064:27094): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:33:769 Kernel/(27064:27094): llego por desalojo
+[INFO] 12:52:33:769 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:33:865 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:33:865 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:33:865 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:33:867 Kernel/(27064:27085): ENVIO un PCB A CPU 3
+[INFO] 12:52:33:899 Kernel/(27064:27085): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:33:899 Kernel/(27064:27085): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:33:899 Kernel/(27064:27085): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:33:905 Kernel/(27064:27091): ENVIO un PCB A CPU 1
+[INFO] 12:52:33:973 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:34:012 Kernel/(27064:27085): Mande una interrupcion
+[INFO] 12:52:34:929 Kernel/(27064:27091): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:34:929 Kernel/(27064:27091): llego por desalojo
+[INFO] 12:52:34:929 Kernel/(27064:27091): ENVIO un PCB A CPU 4
+[INFO] 12:52:35:082 Kernel/(27064:27091): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:35:082 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:35:082 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:35:084 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:35:097 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:35:097 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:35:097 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:35:098 Kernel/(27064:27094): ENVIO un PCB A CPU 1
+[INFO] 12:52:35:186 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:35:210 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:36:154 Kernel/(27064:27094): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:36:154 Kernel/(27064:27094): llego por desalojo
+[INFO] 12:52:36:154 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:36:284 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:36:284 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:36:284 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:36:289 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:36:303 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:36:303 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:36:303 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:36:305 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:36:392 Kernel/(27064:27094): Mande una interrupcion
+[INFO] 12:52:36:412 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:37:362 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:37:362 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:37:362 Kernel/(27064:27082): ENVIO un PCB A CPU 4
+[INFO] 12:52:37:495 Kernel/(27064:27082): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:37:495 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:37:495 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:37:497 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:37:530 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:37:530 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:37:530 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:37:532 Kernel/(27064:27094): ENVIO un PCB A CPU 1
+[INFO] 12:52:37:605 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:37:636 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:38:602 Kernel/(27064:27094): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:38:602 Kernel/(27064:27094): llego por desalojo
+[INFO] 12:52:38:602 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:38:741 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 3
+[INFO] 12:52:38:741 Kernel/(27064:27094): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:38:741 Kernel/(27064:27094): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:38:743 Kernel/(27064:27097): ENVIO un PCB A CPU 3
+[INFO] 12:52:38:764 Kernel/(27064:27097): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:38:764 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:38:764 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:38:770 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:38:826 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:38:826 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:38:827 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:38:848 Kernel/(27064:27094): ENVIO un PCB A CPU 4
+[INFO] 12:52:38:854 Kernel/(27064:27094): RECIBO un PCB DE CPU 4 con el estado 6
+[INFO] 12:52:38:854 Kernel/(27064:27094): finalizacion de proceso, comunicando con consola...
+[INFO] 12:52:38:854 Kernel/(27064:27094): el grado de ejecutando es 1
+[INFO] 12:52:38:869 Kernel/(27064:27097): ENVIO un PCB A CPU 3
+[INFO] 12:52:38:904 Kernel/(27064:27097): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:38:904 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:38:904 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:38:945 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:38:950 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:38:950 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:38:950 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:010 Kernel/(27064:27097): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:043 Kernel/(27064:27097): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:39:043 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:043 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:055 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:117 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:39:117 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:117 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:151 Kernel/(27064:27097): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:172 Kernel/(27064:27097): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:39:173 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:173 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:225 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:288 Kernel/(27064:27097): Mande una interrupcion
+[INFO] 12:52:39:288 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:39:300 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:301 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:310 Kernel/(27064:27091): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:355 Kernel/(27064:27091): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:39:355 Kernel/(27064:27091): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:355 Kernel/(27064:27091): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:418 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:463 Kernel/(27064:27091): Mande una interrupcion
+[INFO] 12:52:39:485 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:39:485 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:39:485 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:503 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:39:503 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:503 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:505 Kernel/(27064:27097): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:516 Kernel/(27064:27097): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:39:516 Kernel/(27064:27097): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:516 Kernel/(27064:27097): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:613 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:633 Kernel/(27064:27097): Mande una interrupcion
+[INFO] 12:52:39:643 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 1
+[INFO] 12:52:39:643 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:39:643 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:718 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 3
+[INFO] 12:52:39:718 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:718 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:720 Kernel/(27064:27085): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:720 Kernel/(27064:27085): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:39:721 Kernel/(27064:27085): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:721 Kernel/(27064:27085): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:825 Kernel/(27064:27082): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:825 Kernel/(27064:27085): Mande una interrupcion
+[INFO] 12:52:39:849 Kernel/(27064:27082): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:39:849 Kernel/(27064:27082): llego por desalojo
+[INFO] 12:52:39:849 Kernel/(27064:27082): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:882 Kernel/(27064:27082): RECIBO un PCB DE CPU 3 con el estado 3
+[INFO] 12:52:39:882 Kernel/(27064:27082): Llego en estado bloqueado con unos milisegundos de: 100
+[INFO] 12:52:39:882 Kernel/(27064:27082): SE TIENE QUE BLOQUEAR UN TIEMPO
+[INFO] 12:52:39:884 Kernel/(27064:27094): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:986 Kernel/(27064:27082): Mande una interrupcion
+[INFO] 12:52:39:997 Kernel/(27064:27094): RECIBO un PCB DE CPU 1 con el estado 1
+[INFO] 12:52:39:997 Kernel/(27064:27094): llego por desalojo
+[INFO] 12:52:39:997 Kernel/(27064:27094): ENVIO un PCB A CPU 3
+[INFO] 12:52:39:998 Kernel/(27064:27094): RECIBO un PCB DE CPU 3 con el estado 6
+[INFO] 12:52:39:998 Kernel/(27064:27094): finalizacion de proceso, comunicando con consola...
+[INFO] 12:52:39:998 Kernel/(27064:27094): el grado de ejecutando es 1
+[INFO] 12:52:39:999 Kernel/(27064:27094): ENVIO un PCB A CPU 1
+[INFO] 12:52:39:999 Kernel/(27064:27094): RECIBO un PCB DE CPU 1 con el estado 6
+[INFO] 12:52:39:999 Kernel/(27064:27094): finalizacion de proceso, comunicando con consola...
+[INFO] 12:52:39:999 Kernel/(27064:27094): el grado de ejecutando es 1

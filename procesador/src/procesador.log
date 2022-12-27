@@ -1,0 +1,2720 @@
+[INFO] 12:50:41:686 Servidor/(27061:27061): Servidores listos para recibir al cliente
+[INFO] 12:50:41:687 Servidor/(27061:27063): [38;5;225m Arranca atender interrupciones !!
+[INFO] 12:50:41:688 Servidor/(27061:27062): [38;5;225m Arranca ciclo procesador !!
+[INFO] 12:50:42:868 Servidor/(27061:27062): Se conecto un cliente!
+[INFO] 12:50:42:869 Servidor/(27061:27063): Se conecto un cliente!
+[INFO] 12:50:52:720 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 0
+[INFO] 12:50:52:720 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:723 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:725 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:726 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:727 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:729 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:730 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:730 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:731 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:732 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:733 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:52:733 Servidor/(27061:27062): Voy a hacer una escritura del valor 1
+
+[INFO] 12:50:52:733 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:52:734 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:52:734 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:52:734 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:50:53:737 Servidor/(27061:27062): [38;5;120m Recibi el marco: 0
+[INFO] 12:50:53:737 Servidor/(27061:27062): EL marco es: 0 
+
+[INFO] 12:50:53:737 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:50:53:743 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:50:53:744 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:53:744 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:50:53:744 Servidor/(27061:27062): Envio el pcb  0 al kernel
+[INFO] 12:50:53:745 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:50:53:745 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:752 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:760 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:764 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:768 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:775 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:777 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:784 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:792 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:797 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:800 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:53:800 Servidor/(27061:27062): Voy a hacer una escritura del valor 1
+
+[INFO] 12:50:53:800 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:53:800 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:53:800 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:53:801 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:50:54:807 Servidor/(27061:27062): [38;5;120m Recibi el marco: 1
+[INFO] 12:50:54:807 Servidor/(27061:27062): EL marco es: 1 
+
+[INFO] 12:50:54:807 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:50:54:817 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:50:54:829 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:54:829 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:50:54:829 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:50:54:829 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 2
+[INFO] 12:50:54:829 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:839 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:851 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:871 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:881 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:892 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:896 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:903 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:904 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:912 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:920 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:54:920 Servidor/(27061:27062): Voy a hacer una escritura del valor 1
+
+[INFO] 12:50:54:920 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:54:920 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:54:920 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:54:921 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:50:55:924 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:50:55:924 Servidor/(27061:27062): EL marco es: 2 
+
+[INFO] 12:50:55:924 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:55:924 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:55:924 Servidor/(27061:27062): Voy a hacer una escritura del valor 2
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:50:55:925 Servidor/(27061:27062): EL marco es: 2 
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:55:925 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:55:925 Servidor/(27061:27062): Voy a hacer una escritura del valor 11
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:55:925 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:55:925 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:50:56:934 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:50:56:934 Servidor/(27061:27062): EL marco es: 3 
+
+[INFO] 12:50:56:934 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:56:934 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:56:934 Servidor/(27061:27062): Voy a hacer una escritura del valor 12
+
+[INFO] 12:50:56:934 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:56:934 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:56:934 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:50:56:934 Servidor/(27061:27062): EL marco es: 3 
+
+[INFO] 12:50:56:934 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:56:934 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:56:935 Servidor/(27061:27062): Voy a hacer una escritura del valor 21
+
+[INFO] 12:50:56:935 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:56:935 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:56:935 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:56:935 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:50:57:944 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:50:57:944 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:50:57:944 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:50:57:944 Servidor/(27061:27062): EL marco es: 4 
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:57:944 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:57:944 Servidor/(27061:27062): Voy a hacer una escritura del valor 22
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:50:57:944 Servidor/(27061:27062): EL marco es: 4 
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:57:944 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:57:944 Servidor/(27061:27062): Voy a hacer una escritura del valor 31
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:57:944 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:57:945 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:50:58:953 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:50:58:954 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:50:58:954 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:50:58:954 Servidor/(27061:27062): EL marco es: 5 
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:58:954 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:58:954 Servidor/(27061:27062): Voy a hacer una escritura del valor 32
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:50:58:954 Servidor/(27061:27062): EL marco es: 5 
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:50:58:954 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:50:58:954 Servidor/(27061:27062): Voy a hacer una escritura del valor 41
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:50:58:954 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:50:58:954 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:00:983 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:00:983 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:00:983 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:00:983 Servidor/(27061:27062): EL marco es: 2 
+
+[INFO] 12:51:00:983 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:51:00:983 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:00:983 Servidor/(27061:27062): Voy a hacer una escritura del valor 42
+
+[INFO] 12:51:00:983 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:51:00:983 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:51:00:983 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:51:00:983 Servidor/(27061:27062): EL marco es: 2 
+
+[INFO] 12:51:00:984 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:51:00:984 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:00:984 Servidor/(27061:27062): Voy a hacer una escritura del valor 51
+
+[INFO] 12:51:00:984 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:51:00:984 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:51:00:984 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:00:984 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:03:004 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:03:004 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:03:004 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:03:004 Servidor/(27061:27062): EL marco es: 3 
+
+[INFO] 12:51:03:004 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:51:03:004 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:004 Servidor/(27061:27062): Voy a hacer una escritura del valor 52
+
+[INFO] 12:51:03:004 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:51:03:004 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:51:03:004 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:51:03:004 Servidor/(27061:27062): EL marco es: 3 
+
+[INFO] 12:51:03:004 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:51:03:004 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:024 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:035 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:046 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:057 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:067 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:089 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:091 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:094 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:110 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:121 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:03:121 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:03:121 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:05:152 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:05:152 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:05:152 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:05:153 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:05:153 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:05:153 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:07:172 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:07:172 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:07:172 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:07:172 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:07:172 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:07:172 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:08:182 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:08:182 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:08:182 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:08:182 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:09:191 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:09:192 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:192 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:09:192 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:09:192 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:09:192 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:09:192 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:09:192 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:192 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:09:192 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:09:193 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:09:193 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:09:193 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:09:193 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:201 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:212 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:234 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:244 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:248 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:255 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:266 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:277 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:298 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:311 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:09:311 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:09:312 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:10:319 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:10:319 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:10:319 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:10:320 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:10:320 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:10:320 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:11:328 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:11:329 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:11:329 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:11:329 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:13:358 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:13:358 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:13:359 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:13:359 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:13:359 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:13:359 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:15:378 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:15:378 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:15:378 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:15:379 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:15:379 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:15:379 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:16:388 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:16:388 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:16:388 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:16:388 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:16:388 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:16:388 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:17:397 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:17:397 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:17:397 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:17:398 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:418 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:429 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:440 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:461 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:472 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:483 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:493 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:504 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:526 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:536 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:17:537 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:17:537 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:18:557 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:18:558 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:18:558 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:18:558 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:18:558 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:18:558 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:19:567 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:19:567 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:19:567 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:19:568 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:19:568 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:19:568 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:20:577 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:20:577 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:20:577 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:20:577 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:20:577 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:20:578 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:21:587 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:21:587 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:21:587 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:21:587 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:21:587 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:21:587 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:22:598 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:22:598 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:22:598 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:22:599 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:22:599 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:22:599 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:23:608 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:23:608 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:23:608 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:23:608 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:629 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:650 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:661 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:672 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:693 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:704 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:715 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:726 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:736 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:761 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:23:761 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:23:761 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:24:768 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:24:768 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:24:768 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:24:769 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:24:769 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:24:769 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:25:778 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:25:778 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:25:778 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:25:779 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:25:779 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:25:779 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:26:787 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:26:787 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:26:787 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:26:788 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:26:788 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:26:788 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:27:797 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:27:797 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:27:797 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:27:798 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:27:798 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:27:798 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:28:807 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:28:807 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:28:807 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:28:807 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:28:807 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:28:808 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:29:817 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:29:817 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:29:817 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:29:817 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:827 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:838 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:849 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:859 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:886 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:891 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:902 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:923 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:934 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:946 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:29:946 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:29:946 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:30:955 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:30:955 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:30:955 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:30:956 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:30:956 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:30:956 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:31:964 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:31:964 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:31:964 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:31:965 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:31:965 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:31:965 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:32:974 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:32:974 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:32:974 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:32:975 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:32:975 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:32:975 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:33:984 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:33:984 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:33:984 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:33:984 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:33:984 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:33:985 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:34:994 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:34:994 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:34:994 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:34:994 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:34:994 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:34:994 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:36:003 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:36:004 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:36:004 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:36:004 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:013 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:024 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:046 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:056 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:067 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:078 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:089 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:110 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:132 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:143 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:36:143 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:36:143 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:37:153 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:37:153 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:37:153 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:37:154 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:37:154 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:37:154 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:38:173 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:38:173 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:38:173 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:38:173 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:38:174 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:38:174 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:39:183 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:39:183 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:39:183 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:39:183 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:39:183 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:39:183 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:40:193 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:40:193 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:40:193 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:40:193 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:40:193 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:40:193 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:41:203 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:41:203 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:41:203 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:41:203 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:41:203 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:41:203 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:42:213 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:42:213 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:42:213 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:42:213 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:223 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:234 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:255 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:277 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:287 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:298 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:309 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:319 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:341 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:352 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:362 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:384 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:405 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:427 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:438 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:448 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:470 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:481 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:491 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:504 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:42:504 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:42:504 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:43:512 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:43:512 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:43:512 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:43:512 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:43:513 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:43:513 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:44:522 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:44:522 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:44:522 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:44:523 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:44:523 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:44:523 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:45:532 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:45:532 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:45:532 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:45:532 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:45:532 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:45:532 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:46:552 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:46:552 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:46:552 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:46:553 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:46:553 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:46:553 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:47:562 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:47:562 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:47:562 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:47:562 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:47:563 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:47:563 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:48:572 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:48:572 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:48:572 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:48:572 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:582 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:592 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:614 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:625 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:635 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:646 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:657 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:668 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:678 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:702 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:48:703 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:48:703 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:49:710 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:49:710 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:49:710 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:49:710 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:49:710 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:49:711 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:50:720 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:50:720 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:50:720 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:50:720 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:50:720 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:50:720 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:51:729 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:51:729 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:51:729 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:51:730 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:51:730 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:51:730 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:52:739 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:52:739 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:52:739 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:52:739 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:52:739 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:52:739 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:53:749 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:53:749 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:53:749 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:53:749 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:53:749 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:53:749 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:54:758 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:54:758 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:54:758 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:54:759 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:779 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:790 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:801 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:822 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:833 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:843 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:849 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:867 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:876 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:887 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:54:887 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:54:887 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:55:897 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:55:897 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:55:897 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:55:897 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:55:897 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:55:897 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:56:906 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:51:56:906 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:56:906 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:56:907 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:56:907 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:56:907 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:57:916 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:51:57:916 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:57:916 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:57:917 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:57:917 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:57:917 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:51:58:926 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:51:58:926 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:58:926 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:51:58:926 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:58:926 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:58:926 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:51:59:935 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:51:59:936 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:51:59:936 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:51:59:936 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:51:59:936 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:51:59:936 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:52:00:945 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:52:00:945 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:00:945 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:52:00:946 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:00:966 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:00:977 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:00:988 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:009 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:020 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:031 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:041 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:052 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:074 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:084 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:01:085 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:01:085 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:52:02:105 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:52:02:105 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:02:105 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:52:02:106 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:02:106 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:02:106 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:52:03:115 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:52:03:115 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:03:115 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:52:03:116 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:03:116 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:03:116 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:52:04:125 Servidor/(27061:27062): [38;5;120m Recibi el marco: 2
+[INFO] 12:52:04:125 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:04:125 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:52:04:125 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:04:125 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:04:125 Servidor/(27061:27062): Memoria me devolvio 4
+[INFO] 12:52:05:137 Servidor/(27061:27062): [38;5;120m Recibi el marco: 3
+[INFO] 12:52:05:137 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:05:137 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:52:05:137 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:05:137 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:05:138 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:52:06:144 Servidor/(27061:27062): [38;5;120m Recibi el marco: 4
+[INFO] 12:52:06:144 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:06:144 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:52:06:145 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:06:145 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:06:145 Servidor/(27061:27062): Memoria me devolvio 5
+[INFO] 12:52:07:155 Servidor/(27061:27062): [38;5;120m Recibi el marco: 5
+[INFO] 12:52:07:155 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:07:155 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:52:07:155 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:175 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:185 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:196 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:218 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:228 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:239 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:250 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:260 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:282 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:293 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:293 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:07:293 Servidor/(27061:27062): Envio el pcb  2 al kernel
+[INFO] 12:52:07:294 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 0
+[INFO] 12:52:07:294 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:303 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:317 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:317 Servidor/(27061:27062): Voy a hacer una escritura del valor 2
+
+[INFO] 12:52:07:317 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:07:317 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:07:317 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:07:317 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:52:07:317 Servidor/(27061:27062): [38;5;120m Recibi el marco: 0
+[INFO] 12:52:07:317 Servidor/(27061:27062): EL marco es: 0 
+
+[INFO] 12:52:07:317 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:07:317 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:325 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:336 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:336 Servidor/(27061:27062): Voy a hacer una escritura del valor 3
+
+[INFO] 12:52:07:336 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:07:336 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:07:336 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:07:336 Servidor/(27061:27062): EL marco es: 0 
+
+[INFO] 12:52:07:336 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:07:336 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:347 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:350 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:350 Servidor/(27061:27062): Voy a hacer una escritura del valor 4
+
+[INFO] 12:52:07:350 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:07:350 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:07:350 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:07:350 Servidor/(27061:27062): EL marco es: 0 
+
+[INFO] 12:52:07:350 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:07:350 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:350 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:351 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:351 Servidor/(27061:27062): Voy a hacer una escritura del valor 5
+
+[INFO] 12:52:07:351 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:07:351 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:07:351 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:07:351 Servidor/(27061:27062): EL marco es: 0 
+
+[INFO] 12:52:07:351 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:07:351 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:368 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:379 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:07:379 Servidor/(27061:27062): Voy a hacer una escritura del valor 11
+
+[INFO] 12:52:07:379 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:07:379 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:07:379 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:07:379 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:52:08:400 Servidor/(27061:27062): [38;5;120m Recibi el marco: 6
+[INFO] 12:52:08:400 Servidor/(27061:27062): EL marco es: 6 
+
+[INFO] 12:52:08:400 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:08:400 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:421 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:442 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:442 Servidor/(27061:27062): Voy a hacer una escritura del valor 12
+
+[INFO] 12:52:08:442 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:08:442 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:08:442 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:08:442 Servidor/(27061:27062): EL marco es: 6 
+
+[INFO] 12:52:08:442 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:08:442 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:456 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:464 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:464 Servidor/(27061:27062): Voy a hacer una escritura del valor 13
+
+[INFO] 12:52:08:464 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:08:464 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:08:464 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:08:464 Servidor/(27061:27062): EL marco es: 6 
+
+[INFO] 12:52:08:464 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:08:464 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:485 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:509 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:511 Servidor/(27061:27062): Voy a hacer una escritura del valor 14
+
+[INFO] 12:52:08:511 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:08:511 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:08:511 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:08:511 Servidor/(27061:27062): EL marco es: 6 
+
+[INFO] 12:52:08:511 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:08:511 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:517 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:531 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:531 Servidor/(27061:27062): Voy a hacer una escritura del valor 15
+
+[INFO] 12:52:08:531 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:08:531 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:08:531 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:08:531 Servidor/(27061:27062): EL marco es: 6 
+
+[INFO] 12:52:08:532 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:08:532 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:539 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:552 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:08:552 Servidor/(27061:27062): Voy a hacer una escritura del valor 21
+
+[INFO] 12:52:08:552 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:08:552 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:08:552 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:08:552 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:52:09:560 Servidor/(27061:27062): [38;5;120m Recibi el marco: 7
+[INFO] 12:52:09:560 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:09:560 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:52:09:560 Servidor/(27061:27062): EL marco es: 7 
+
+[INFO] 12:52:09:560 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:09:560 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:583 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:604 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:605 Servidor/(27061:27062): Voy a hacer una escritura del valor 22
+
+[INFO] 12:52:09:605 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:09:605 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:09:605 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:09:605 Servidor/(27061:27062): EL marco es: 7 
+
+[INFO] 12:52:09:605 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:09:605 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:613 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:624 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:624 Servidor/(27061:27062): Voy a hacer una escritura del valor 23
+
+[INFO] 12:52:09:624 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:09:624 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:09:624 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:09:624 Servidor/(27061:27062): EL marco es: 7 
+
+[INFO] 12:52:09:625 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:09:625 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:645 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:670 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:670 Servidor/(27061:27062): Voy a hacer una escritura del valor 24
+
+[INFO] 12:52:09:670 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:09:670 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:09:670 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:09:670 Servidor/(27061:27062): EL marco es: 7 
+
+[INFO] 12:52:09:671 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:09:671 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:677 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:691 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:691 Servidor/(27061:27062): Voy a hacer una escritura del valor 25
+
+[INFO] 12:52:09:691 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:09:691 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:09:691 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:09:691 Servidor/(27061:27062): EL marco es: 7 
+
+[INFO] 12:52:09:692 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:09:692 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:699 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:710 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:734 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:742 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:752 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:774 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:785 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:795 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:806 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:818 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:818 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:09:818 Servidor/(27061:27062): Envio el pcb  0 al kernel
+[INFO] 12:52:09:821 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:09:821 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:838 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:858 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:858 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:09:858 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:09:859 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:09:859 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:09:859 Servidor/(27061:27062): Voy a hacer una escritura del valor 1
+
+[INFO] 12:52:09:859 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:09:859 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:09:860 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:09:860 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:09:967 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:13:851 Servidor/(27061:27062): [38;5;120m Recibi el marco: 8
+[INFO] 12:52:13:851 Servidor/(27061:27062): EL marco es: 8 
+
+[INFO] 12:52:13:851 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:13:851 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:13:851 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:13:852 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:13:852 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:13:855 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:13:876 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:13:888 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:13:898 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:13:916 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:13:917 Servidor/(27061:27062): Voy a hacer una escritura del valor 11
+
+[INFO] 12:52:13:917 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:13:917 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:13:917 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:13:917 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:14:930 Servidor/(27061:27062): [38;5;120m Recibi el marco: 9
+[INFO] 12:52:14:930 Servidor/(27061:27062): EL marco es: 9 
+
+[INFO] 12:52:14:930 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:14:930 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:14:940 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:14:951 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:14:972 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:14:983 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:14:994 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:14:994 Servidor/(27061:27062): Voy a hacer una escritura del valor 21
+
+[INFO] 12:52:14:994 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:14:994 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:14:994 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:14:994 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:16:004 Servidor/(27061:27062): [38;5;120m Recibi el marco: 10
+[INFO] 12:52:16:004 Servidor/(27061:27062): EL marco es: 10 
+
+[INFO] 12:52:16:004 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:16:004 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:16:025 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:16:046 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:16:057 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:16:068 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:16:091 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:16:091 Servidor/(27061:27062): Voy a hacer una escritura del valor 31
+
+[INFO] 12:52:16:091 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:16:091 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:16:091 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:16:091 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:17:099 Servidor/(27061:27062): [38;5;120m Recibi el marco: 11
+[INFO] 12:52:17:099 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:17:099 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:52:17:099 Servidor/(27061:27062): EL marco es: 11 
+
+[INFO] 12:52:17:099 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:17:099 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:17:120 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:17:141 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:17:152 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:17:163 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:17:186 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:17:187 Servidor/(27061:27062): Voy a hacer una escritura del valor 41
+
+[INFO] 12:52:17:187 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:17:187 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:17:187 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:17:187 Servidor/(27061:27062): Memoria me devolvio 3
+[INFO] 12:52:17:849 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:19:204 Servidor/(27061:27062): [38;5;120m Recibi el marco: 1
+[INFO] 12:52:19:204 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:19:204 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 1 !
+[INFO] 12:52:19:204 Servidor/(27061:27062): EL marco es: 1 
+
+[INFO] 12:52:19:205 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:19:205 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:19:205 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:19:205 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:19:205 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:216 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:226 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:226 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:19:226 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:19:228 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:19:228 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:236 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:253 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:268 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:279 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:290 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:311 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:322 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:333 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:333 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:19:343 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:19:345 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:19:346 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 0
+[INFO] 12:52:19:347 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:357 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:376 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:400 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:408 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:419 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:440 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:461 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:472 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:483 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:506 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:19:507 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:19:507 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:52:20:515 Servidor/(27061:27062): [38;5;120m Recibi el marco: 12
+[INFO] 12:52:20:515 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:536 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:560 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:560 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:20:560 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:568 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:579 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:579 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:20:579 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:600 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:626 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:626 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:20:626 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:632 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:646 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:646 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:20:646 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:665 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:678 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:20:679 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:20:679 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:52:21:686 Servidor/(27061:27062): [38;5;120m Recibi el marco: 13
+[INFO] 12:52:21:686 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:696 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:706 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:707 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:21:707 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:717 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:741 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:742 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:21:742 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:749 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:762 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:762 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:21:762 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:785 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:794 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:794 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:21:795 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:806 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:814 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:21:814 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:21:814 Servidor/(27061:27062): Memoria me devolvio 0
+[INFO] 12:52:22:835 Servidor/(27061:27062): [38;5;120m Recibi el marco: 14
+[INFO] 12:52:22:835 Servidor/(27061:27062): [38;5;212m Hay que hacer un reemplazo en la tlb
+[INFO] 12:52:22:835 Servidor/(27061:27062): [38;5;212m El reemplazo se hizo exitosamente en la posicion 0 !
+[INFO] 12:52:22:835 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:845 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:856 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:857 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:22:857 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:866 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:880 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:880 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:22:880 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:888 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:899 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:899 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:22:899 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:909 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:920 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:920 Servidor/(27061:27062): [38;5;195m El marco estaba en la tlb
+[INFO] 12:52:22:921 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:942 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:955 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:963 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:22:985 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:006 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:017 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:028 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:049 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:060 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:071 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:071 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:071 Servidor/(27061:27062): Envio el pcb  0 al kernel
+[INFO] 12:52:23:073 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:23:073 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:081 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:086 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:087 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:088 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:089 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:089 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:094 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:106 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:113 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:138 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:138 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:138 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:23:140 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:23:140 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:146 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:164 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:164 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:164 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:23:165 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:23:165 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:180 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:180 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:180 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:23:286 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:23:286 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:23:297 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:307 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:307 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:23:307 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:23:308 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:308 Servidor/(27061:27062): Voy a hacer una escritura del valor 2
+
+[INFO] 12:52:23:308 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:23:308 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:23:308 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:23:308 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:23:308 Servidor/(27061:27062): [38;5;120m Recibi el marco: 8
+[INFO] 12:52:23:308 Servidor/(27061:27062): EL marco es: 8 
+
+[INFO] 12:52:23:308 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:23:308 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:328 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:357 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:360 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:371 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:382 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:393 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:414 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:425 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:436 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:459 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:459 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:459 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:23:463 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:23:464 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:468 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:468 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:23:468 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:23:565 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:23:565 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:23:565 Servidor/(27061:27062): Voy a hacer una escritura del valor 11
+
+[INFO] 12:52:23:565 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:23:565 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:23:566 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:23:566 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:23:580 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:28:183 Servidor/(27061:27062): [38;5;120m Recibi el marco: 15
+[INFO] 12:52:28:183 Servidor/(27061:27062): EL marco es: 15 
+
+[INFO] 12:52:28:183 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:28:183 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:183 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:184 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:184 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:204 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:216 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:216 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:216 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:28:217 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:28:217 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:225 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:254 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:258 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:268 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:279 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:290 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:311 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:322 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:322 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:28:343 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:346 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:346 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:347 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:357 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:376 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:376 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:376 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:28:384 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:28:384 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:397 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:398 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:398 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:483 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:484 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:494 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:506 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:28:507 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:507 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:515 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:28:522 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:28:522 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:522 Servidor/(27061:27062): Voy a hacer una escritura del valor 12
+
+[INFO] 12:52:28:522 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:28:522 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:28:522 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:28:522 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:28:522 Servidor/(27061:27062): [38;5;120m Recibi el marco: 15
+[INFO] 12:52:28:522 Servidor/(27061:27062): EL marco es: 15 
+
+[INFO] 12:52:28:522 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:28:522 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:526 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:548 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:558 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:576 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:580 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:591 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:612 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:623 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:623 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:28:633 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:634 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:634 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:636 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:644 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:657 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:658 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:658 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:28:664 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:28:664 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:677 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:677 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:677 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:763 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:763 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:784 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:785 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:28:795 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:795 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:28:795 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:28:795 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:795 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:28:795 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:28:795 Servidor/(27061:27062): [38;5;120m Recibi el marco: 8
+[INFO] 12:52:28:796 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:805 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:834 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:837 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:847 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:859 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:870 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:871 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:872 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:873 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:874 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:874 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:874 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:876 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:876 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:876 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:876 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:28:978 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:28:978 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:978 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:28:978 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:28:979 Servidor/(27061:27062): [38;5;120m Recibi el marco: 15
+[INFO] 12:52:28:979 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:988 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:28:992 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:28:999 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:28:999 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:28:999 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:28:999 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:020 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:039 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:039 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:039 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:29:041 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:29:041 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:042 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:063 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:077 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:085 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:095 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:106 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:127 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:138 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:139 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:139 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:29:149 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:29:150 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:160 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:173 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:174 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:174 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:29:257 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:29:258 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:258 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:29:258 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:29:258 Servidor/(27061:27062): [38;5;120m Recibi el marco: 8
+[INFO] 12:52:29:258 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:278 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:282 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:29:289 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:289 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:29:289 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:29:289 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:299 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:329 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:329 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:329 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:29:331 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:29:331 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:332 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:342 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:356 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:364 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:385 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:407 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:428 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:439 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:439 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:29:440 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:450 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:29:452 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:29:452 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:471 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:485 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:485 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:485 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:29:558 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:29:558 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:558 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:29:558 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:29:558 Servidor/(27061:27062): [38;5;120m Recibi el marco: 15
+[INFO] 12:52:29:559 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:568 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:579 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:607 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:29:601 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:622 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:622 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:29:623 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:29:623 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:643 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:656 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:656 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:656 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:29:663 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:29:663 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:667 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:686 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:700 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:708 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:718 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:729 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:729 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:730 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:29:775 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:29:776 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:783 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:796 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:797 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:29:797 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:29:840 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:29:840 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:29:840 Servidor/(27061:27062): Voy a hacer una escritura del valor 21
+
+[INFO] 12:52:29:840 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:29:840 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:29:840 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:29:840 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:29:901 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:30:848 Servidor/(27061:27062): [38;5;120m Recibi el marco: 16
+[INFO] 12:52:30:848 Servidor/(27061:27062): EL marco es: 16 
+
+[INFO] 12:52:30:848 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:30:848 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:30:848 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:30:849 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:30:849 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:868 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:879 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:880 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:30:880 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:30:881 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:30:881 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:889 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:900 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:911 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:926 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:932 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:943 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:953 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:976 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:986 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:30:986 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:30:996 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:30:997 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:30:997 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:30:997 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:018 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:032 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:032 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:31:032 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:31:033 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:31:033 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:033 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:31:033 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:31:147 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:31:147 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:31:159 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:168 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:31:169 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:31:169 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:31:169 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:169 Servidor/(27061:27062): Voy a hacer una escritura del valor 22
+
+[INFO] 12:52:31:169 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:31:169 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:31:170 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:31:170 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:31:170 Servidor/(27061:27062): [38;5;120m Recibi el marco: 16
+[INFO] 12:52:31:170 Servidor/(27061:27062): EL marco es: 16 
+
+[INFO] 12:52:31:170 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:31:170 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:190 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:218 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:222 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:233 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:254 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:266 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:276 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:286 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:297 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:308 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:308 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:31:308 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:31:310 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:31:310 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:319 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:319 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:31:319 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:31:416 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:31:416 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:31:416 Servidor/(27061:27062): Voy a hacer una escritura del valor 31
+
+[INFO] 12:52:31:416 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:31:416 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:31:416 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:31:417 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:31:430 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:32:179 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:32:436 Servidor/(27061:27062): [38;5;120m Recibi el marco: 17
+[INFO] 12:52:32:436 Servidor/(27061:27062): EL marco es: 17 
+
+[INFO] 12:52:32:437 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:32:437 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:32:437 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:32:437 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:32:437 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:446 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:458 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:458 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:32:459 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:32:460 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:32:460 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:479 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:496 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:500 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:511 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:522 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:532 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:543 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:565 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:568 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:32:575 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:32:576 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:32:576 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:32:576 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:586 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:608 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:621 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:629 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:651 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:662 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:672 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:694 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:704 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:715 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:715 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:32:715 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:32:717 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:32:717 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:726 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:739 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:740 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:32:740 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:32:741 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:32:741 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:747 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:32:748 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:32:748 Servidor/(27061:27062): Memoria me devolvio 3
+[INFO] 12:52:32:823 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:32:844 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:33:768 Servidor/(27061:27062): [38;5;120m Recibi el marco: 18
+[INFO] 12:52:33:769 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:33:769 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:33:769 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:33:769 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:769 Servidor/(27061:27062): Voy a hacer una escritura del valor 32
+
+[INFO] 12:52:33:769 Servidor/(27061:27062): Traduje la direccion fisica, que tiene como valores: 
+
+[INFO] 12:52:33:769 Servidor/(27061:27062): Voy a buscar el marco: 
+
+[INFO] 12:52:33:769 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:33:769 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:33:770 Servidor/(27061:27062): [38;5;120m Recibi el marco: 17
+[INFO] 12:52:33:770 Servidor/(27061:27062): EL marco es: 17 
+
+[INFO] 12:52:33:770 Servidor/(27061:27062): [38;5;120m La escritura fue exitosa!!
+[INFO] 12:52:33:770 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:779 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:790 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:811 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:828 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:832 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:835 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:837 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:850 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:855 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:864 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:865 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:33:865 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:33:866 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:33:866 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:875 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:899 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:899 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:33:899 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:33:905 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:33:905 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:907 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:908 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:911 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:912 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:913 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:33:913 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:33:913 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:33:973 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:34:012 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:34:928 Servidor/(27061:27062): [38;5;120m Recibi el marco: 19
+[INFO] 12:52:34:929 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:34:929 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:34:929 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:34:929 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:34:929 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:34:929 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:34:929 Servidor/(27061:27062): [38;5;120m Recibi el marco: 16
+[INFO] 12:52:34:930 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:34:949 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:34:961 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:34:971 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:34:999 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:003 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:014 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:024 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:035 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:057 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:081 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:082 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:35:082 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:35:083 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:35:083 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:089 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:096 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:096 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:35:096 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:35:098 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:35:098 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:102 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:113 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:123 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:135 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:143 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:35:143 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:35:143 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:35:186 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:35:210 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:36:153 Servidor/(27061:27062): [38;5;120m Recibi el marco: 20
+[INFO] 12:52:36:154 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:36:154 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:36:154 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:36:154 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:154 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:36:154 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:36:155 Servidor/(27061:27062): [38;5;120m Recibi el marco: 16
+[INFO] 12:52:36:155 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:163 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:175 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:195 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:212 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:217 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:227 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:238 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:249 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:260 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:284 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:284 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:36:284 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:36:288 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:36:289 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:292 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:303 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:303 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:36:303 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:36:304 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:36:304 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:313 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:327 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:335 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:346 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:357 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:36:357 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:36:357 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:36:392 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:36:412 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:37:362 Servidor/(27061:27062): [38;5;120m Recibi el marco: 21
+[INFO] 12:52:37:362 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:37:362 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:37:363 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:37:363 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:363 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:37:363 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:37:363 Servidor/(27061:27062): [38;5;120m Recibi el marco: 17
+[INFO] 12:52:37:363 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:375 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:388 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:397 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:415 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:419 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:440 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:462 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:473 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:483 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:494 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:494 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:37:494 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:37:496 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:37:496 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:505 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:529 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:530 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:37:530 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:37:531 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:37:531 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:537 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:551 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:570 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:580 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:591 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:37:591 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:37:592 Servidor/(27061:27062): Memoria me devolvio 2
+[INFO] 12:52:37:605 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:37:636 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:38:601 Servidor/(27061:27062): [38;5;120m Recibi el marco: 19
+[INFO] 12:52:38:601 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:602 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:38:602 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:38:602 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:602 Servidor/(27061:27062): El marco no esta en la TLB :( le pido la tabla de 2n a memoria 
+ 
+[INFO] 12:52:38:602 Servidor/(27061:27062): Memoria me devolvio 8
+[INFO] 12:52:38:602 Servidor/(27061:27062): [38;5;120m Recibi el marco: 17
+[INFO] 12:52:38:602 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:622 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:634 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:644 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:672 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:676 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:686 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:697 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:708 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:729 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:740 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:741 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:741 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:38:742 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:38:742 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:751 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:764 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:764 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:764 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:38:770 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:38:770 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:772 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:795 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:806 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:818 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:826 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:826 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:826 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:38:850 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 4
+[INFO] 12:52:38:850 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:853 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:871 Servidor/(27061:27062): Envio el pcb  4 al kernel
+[INFO] 12:52:38:871 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:38:871 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:883 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:904 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:904 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:904 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:38:945 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:38:945 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:946 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:947 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:948 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:949 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:950 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:38:950 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:38:950 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:010 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:010 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:030 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:043 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:043 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:043 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:055 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:055 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:073 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:087 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:095 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:105 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:116 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:117 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:117 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:151 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:152 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:159 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:172 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:172 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:172 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:225 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:225 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:234 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:248 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:256 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:267 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:288 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:39:288 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:288 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:288 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:310 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:310 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:331 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:355 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:355 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:355 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:418 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:418 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:438 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:449 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:463 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:463 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:39:481 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:485 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:485 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:485 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:495 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:503 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:503 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:503 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:504 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:504 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:516 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:516 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:516 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:613 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:613 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:632 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:633 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:39:642 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:642 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:643 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:643 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:653 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:678 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:685 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:696 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:718 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:718 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:718 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:719 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:719 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:719 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:719 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:825 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:825 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:826 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:39:846 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:849 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:849 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:849 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:868 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:881 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:882 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:882 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:883 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:883 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:889 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:911 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:924 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:932 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:943 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:954 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:975 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:986 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:987 Servidor/(27061:27063): Recibi una interrupcion
+[INFO] 12:52:39:997 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:997 Servidor/(27061:27062): Envio el pcb  1 al kernel
+[INFO] 12:52:39:997 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 3
+[INFO] 12:52:39:998 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:998 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:998 Servidor/(27061:27062): Envio el pcb  3 al kernel
+[INFO] 12:52:39:999 Servidor/(27061:27062): [38;5;213m Recibi el pcb: 1
+[INFO] 12:52:39:999 Servidor/(27061:27062): 
+ [38;5;195mCodigo de instruccion a ejecutar:  
+[INFO] 12:52:39:999 Servidor/(27061:27062): Actualizo PCB:
+[INFO] 12:52:39:999 Servidor/(27061:27062): Envio el pcb  1 al kernel
